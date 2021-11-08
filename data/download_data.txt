@@ -1,0 +1,2 @@
+You can download the needed data here: https://ieee-dataport.org/open-access/ultra-dense-indoor-mamimo-csi-dataset
+and decompress it into this folder
